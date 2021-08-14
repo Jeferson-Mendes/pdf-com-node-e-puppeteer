@@ -19,8 +19,5 @@ Gerando pdf no lado do servidor utilizando o nodejs, puppeteer e ejs.
 	> npm run dev
 - Abra o navegador no endereço **http://localhost:3333**  para ter acesso a lista de **carros alugados**.
 - Abra o navegador no endereço **http://localhost:3333/pdf** e aguarde o pdf com a lista de **carros alugados** ser carregado.
-|
-|
-|
-|
-happy coding!! 
+
+#### happy coding!! 
