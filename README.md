@@ -7,7 +7,7 @@ Gerando pdf no lado do servidor utilizando o nodejs, puppeteer e ejs.
 -  [**Node.js**](https://nodejs.org/en/)
 - [**Puppeteer**](https://pptr.dev)
 - [**EJS**](https://ejs.co)
-- Um poucquinho de [**Tailwind ui**](https://tailwindui.com)
+- Um pouquinho de [**Tailwind ui**](https://tailwindui.com)
 
 
 ### Para testar
